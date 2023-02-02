@@ -8,7 +8,7 @@
 
 > ## The Purpose
 
-The goal of the project is to integrate a technological system based on deep learning (DL) principles that will allow the classification of olive varieties based on a large amount of images.
+The purpose of the project is to integrate a technological system based on deep learning (DL) principles that will allow the classification of olive varieties based on a large amount of images.
 The system will be based on deep learning that will analyze close-up photos of olive pits and will know, given a picture of an olive pit, to classify the pit to the species to which it belongs.
 <br/><br/><br/><br/><br/>
 
